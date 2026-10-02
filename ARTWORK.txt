@@ -1,0 +1,12 @@
+Generated with the built-in image_gen tool. PNG converted into a Windows ICO
+with 16, 24, 32, 48, 64, 128, and 256 pixel variants.
+
+Final generation prompt:
+Use case: logo-brand. Asset type: square Windows application icon for Bedrock
+Auto Sprint, a Minecraft keyboard sprint helper. Create a bold polished pixel-art
+emblem: one blocky turquoise running boot with a bright grass-green lightning
+bolt and two short speed streaks. Dark charcoal rounded-square tile, transparent
+outside the rounded tile. Minecraft-inspired voxel/pixel aesthetic. Large simple
+silhouette occupying most of tile, high contrast, crisp chunky edges, readable
+at 16 to 48 pixels. No lettering, no watermark, no small decorative details.
+Square composition.
